@@ -51,3 +51,11 @@ chmod +x postrecon.py
 - Do **NOT** use this tool on systems you do not own or have explicit permission to test  
 - The author takes **no responsibility** for misuse or damage caused  
 - Always follow **legal and ethical guidelines**
+
+## 📸 Demo
+
+![Demo](assets/screenshot1-postrecon.png)
+![Demo](assets/screenshot2-postrecon.png)
+![Demo](assets/screenshot3-postrecon.png)
+![Demo](assets/screenshot4-postrecon.png)
+![Demo](assets/screenshot5-postrecon.png)
