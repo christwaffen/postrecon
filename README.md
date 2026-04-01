@@ -54,6 +54,9 @@ chmod +x postrecon.py
 
 ## 📸 Demo
 
+The test device is a Raspberry Pi 4B. The user 'maciej' is the attacker on Kali Linux, 
+while 'jack' is the victim account on the "compromised system," without sudo privileges.
+
 ![Demo](assets/screenshot1-postrecon.png)
 ![Demo](assets/screenshot2-postrecon.png)
 ![Demo](assets/screenshot3-postrecon.png)
